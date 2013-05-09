@@ -101,11 +101,20 @@ textarea {
     border: none;
 }
 
+.pink-line {
+    border-top: 3px solid #e656aa;
+    border-bottom: none;
+}
 
+.yellow-line {
+    border-top: 3px solid #ffd62f;
+    border-bottom: none;
+}
 
-
-
-
+.blue-line {
+    border-top: 3px solid #56a1e6;
+    border-bottom: none;
+}
 
 
 
